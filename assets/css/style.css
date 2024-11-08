@@ -2,9 +2,6 @@
 
 .overflow-section {
     background: rgba(29, 26, 26, 1);
-    display: flex;
-    align-items: center;
-    justify-content: center;
     overflow: hidden;
 }
 
@@ -15,6 +12,10 @@
 
 .card-overflow{
     margin-bottom: 50px !important;
+    padding-top: 70px;
+}
+.card-over{
+    padding-top: 70px; 
 }
 .heading {
     font-family: "Poppins", sans-serif;

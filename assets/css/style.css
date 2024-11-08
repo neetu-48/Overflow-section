@@ -13,9 +13,11 @@
 .card-overflow{
     margin-bottom: 50px !important;
     padding-top: 70px;
+    padding-bottom: 70px;
 }
 .card-over{
     padding-top: 70px; 
+    padding-bottom: 70px;
 }
 .heading {
     font-family: "Poppins", sans-serif;
